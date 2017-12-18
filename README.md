@@ -11,8 +11,7 @@ Analysis has been performed to answer the following questions.
 
 **Q4.** Who are the top ten artists for fast songs (based on their tempo)?
 
-**Q5.** What are top ten songs based on their hotness in each genre? Please also provide the artist
-        name and title for these songs.
+**Q5.** What are top ten songs based on their hotness in each genre? Please also provide the artist name and title for these songs.
         
 **Q6.** On a per-year basis, what is the mean variance of loudness across the songs within the dataset?
 
